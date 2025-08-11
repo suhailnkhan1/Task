@@ -1,6 +1,6 @@
-# 📚 DSA Practice Questions — Restored (Easy → Medium → Hard)
+# 📚 DSA Interview Questions for TrialX — (Easy → Medium)
 
-A curated set of **30** DSA problems. Each entry: **Title · Level · Problem · Examples**.
+A curated set of **29** DSA problems. Each entry: **Title · Level · Problem · Examples**.
 
 ---
 
